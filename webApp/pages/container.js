@@ -1,4 +1,4 @@
-var lm = require('lms');
+var lm = require('../../lms.js');
 
 module.exports = function (content) {
     return lm(['html',
